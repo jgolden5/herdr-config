@@ -8,3 +8,4 @@ prefix = "\\"
 
 previous_workspace = "prefix+["
 next_workspace = "prefix+]"
+split_vertical = "prefix+="
