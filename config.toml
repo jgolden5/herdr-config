@@ -1,0 +1,10 @@
+onboarding = false
+# ~/.config/herdr/config.toml
+
+[keys]
+
+# Keep tmux-style prefix, change from Ctrl-B to backslash
+prefix = "\\"
+
+previous_workspace = "prefix+["
+next_workspace = "prefix+]"
