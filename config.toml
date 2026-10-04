@@ -13,3 +13,12 @@ move_tab_previous = "prefix+<"
 move_tab_next = "prefix+>"
 switch_workspace = "prefix+shift+1..9"
 focus_agent = "prefix+alt+1..9"
+last_pane = "prefix+o"
+
+[theme]
+name = "catppuccin"
+auto_switch = false
+
+[ui]
+tab_bar_position = "bottom"
+
